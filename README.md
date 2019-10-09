@@ -14,7 +14,7 @@ Cara Install Bot :
 
 ------
 
-HEADER CHROMEOS
+IOSIPAD HEADER
 
   RUN VPS 
 
